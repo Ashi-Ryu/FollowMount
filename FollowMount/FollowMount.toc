@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: FollowMount
+## Notes: FollowMount addon - Bronzebeard-compatible
+## SavedVariables: FollowMountDB
+FollowMount.lua
